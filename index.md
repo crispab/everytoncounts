@@ -6,6 +6,7 @@
 
 [Download the drawing](http://everytoncounts.org/images/Friendly-Guide-to-Climate-Change.jpeg)
 
+[References](https://docs.google.com/document/d/1Zh2aqWDguue6Cig-3T1G7wTcLcxbGi2WXZpFMj9M9Tw/edit)
 
 # Join the community
 
@@ -14,6 +15,10 @@
 # Read the blog
 
 [http://blog.crisp.se/tag/climate](http://blog.crisp.se/tag/climate)
+
+# Get in touch
+
+Email climate AT crisp.se (we read all emails but can't guarantee a response, depends on email volume)
 
 # Plans for this site
 We'll add more stuff soon(ish). Our goal is to help you learn how to contribute effectively to reduce global warming! The video is a starting point.
