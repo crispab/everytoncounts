@@ -1,4 +1,3 @@
-<h1>Every ton counts!</h1>
+# See the video
 
-<h2>See the video</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3CM_KkDuzGQ" frameborder="0" allowfullscreen></iframe>
