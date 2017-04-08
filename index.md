@@ -15,3 +15,6 @@
 
 [http://blog.crisp.se/tag/climate](http://blog.crisp.se/tag/climate)
 
+# Plans for this site
+We'll add more stuff soon(ish). Our goal is to help you learn how to contribute effectively to reduce global warming! The video is a starting point.
+
