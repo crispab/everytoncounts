@@ -4,9 +4,9 @@
 
 # Join the community
 
-http://climate.crisp.se
+[http://climate.crisp.se](http://climate.crisp.se)
 
 # Read the blog
 
-http://blog.crisp.se/tag/climate
+[http://blog.crisp.se/tag/climate](http://blog.crisp.se/tag/climate)
 
