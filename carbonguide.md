@@ -2,7 +2,9 @@
 (This is a living document, we'll keep evolving it as we learn)
 
 ## What is my carbon footprint?
-Statistically, your personal carbon footprint is in the range [3-18 tons](http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_technical-summary.pdf) CO2eq per year depending on income level. These things put you on the upper end of the scale:
+Statistically, your personal carbon footprint is in the range [3-18 tons](http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_technical-summary.pdf) CO2eq per year depending on income level.
+
+The following factors put you on the upper end of the scale (there's more, but these are the biggest factors for most people):
 
 * How much you fly
 * How much you drive (non-electric)
