@@ -9,7 +9,7 @@ Statistically, your personal carbon footprint is in the range [3-18 tons](http:/
 * How dirty your region's electricity is. See [ElectricityMap.org](https://www.electricitymap.org). Green is good, brown/black is bad.
 * How much meat you eat (especially beef)
 
-Based on this you should be be able to estimate your approximate footprint. Note that the upper limit 18 tons is an average. Every [4 passenger-flight hours corresponds to 1 ton](http://www.carbonindependent.org/sources_aviation.html), so if you take your whole family across the world calthat one trip could bring you up 40+ tons.
+Based on this you should be be able to estimate your approximate footprint. Note that the upper limit 18 tons is an average. Every [4 passenger-flight hours corresponds to 1 ton](http://www.carbonindependent.org/sources_aviation.html), so if you take your whole family across the world for vacation, that one trip could bring you up 40+ tons. 
 
 Sample calculation:
 * [Article: Did the math on my contribution to global warming](https://blog.crisp.se/2016/12/12/henrikkniberg/did-the-math-on-my-contribution-to-global-warming)
@@ -18,7 +18,8 @@ There are also plenty of more detailed [carbon footprint calculators](https://ww
 
 ## Change personal habits to reduce CO2
 * Eat less meat, especially beef
-* Fly less, replace with train when feasible (replacing plance with car for the same distance makes no difference, unless it is electric)
+* Fly less, replace with train when feasible (replacing plance with car for the same distance makes no difference, unless it is electric). Rule of thumb: Avoid flying when you can, offset it when you can't.
+* Drive less (if you have a fuel car), replace with bike or train or walking (if feasible of course...).
 
 ## Buy to reduce CO2
 (or ask your employer to buy)
