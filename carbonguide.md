@@ -16,7 +16,7 @@ Based on this you should be be able to estimate your approximate footprint. Note
 Sample calculation:
 * [Article: Did the math on my contribution to global warming](https://blog.crisp.se/2016/12/12/henrikkniberg/did-the-math-on-my-contribution-to-global-warming)
 
-There are also plenty of more detailed [carbon footprint calculators](https://www.google.se/?q=carbon+footprint+calculator#safe=active&q=carbon+footprint+calculator) if you pref.  
+There are also plenty of more detailed [carbon footprint calculators](https://www.google.se/?q=carbon+footprint+calculator#safe=active&q=carbon+footprint+calculator) if you prefer.  
 
 ## Change personal habits to reduce CO2
 * Eat less meat, especially beef
