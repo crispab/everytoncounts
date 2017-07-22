@@ -14,6 +14,11 @@
 
 [http://blog.crisp.se/tag/climate](http://blog.crisp.se/tag/climate)
 
+# Make a difference
+
+* Sign the [Carbon Manifesto](http://carbonmanifesto.org)
+* [Reduce your carbon footprint](/carbonguide)
+
 # Get in touch
 
 Email climate AT crisp.se (we read all emails but can't guarantee a response, depends on email volume)
