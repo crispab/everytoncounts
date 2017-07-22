@@ -1,6 +1,9 @@
 # Carbon reduction guide
 (This is a living document, we'll keep evolving it as we learn)
 
+![Average carbon footprint per person](/images/Average-carbon-footprint-per-person.png)
+
+
 ## What is my carbon footprint?
 Statistically, your personal carbon footprint is in the range [3-18 tons](http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_technical-summary.pdf) CO2eq per year depending on income level.
 
