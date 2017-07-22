@@ -48,6 +48,8 @@ You may have heard of other things like upgrading light bulbs, recycling, shutti
 
 You can never reduce your *direct footprint* to zero, since just being alive carries a carbon footprint. But if you combine reduction with offsetting, you can reach a *net footprint* of zero. Offsetting basically means paying or investing to reduce carbon emissions somewhere else, not directly related to your existence. A ton is a ton, no matter where it is reduced. 
 
+So how much have you reduced, and how much do you have left that needs to be offset?
+
 Here are some websites offering you to **pay to reduce carbon emissions**. 
 * [GoClimateNeutral.org](https://en.goclimateneutral.org/) - pay a monthly fee, and they buy carbon offsets. They continuously research to find the most effect ways of offsetting. Very little work on your part, just sign up and start paying.
 * [CarboTax.org](http://carbotax.org/) - similar to the above
