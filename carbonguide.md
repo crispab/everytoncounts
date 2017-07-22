@@ -42,7 +42,7 @@ There are a lot of things you can do to reduce your direct footprint, but these 
 * **Buy green energy**. Buy solar panels and put on your roof, or switch electricity provider to one that uses primarily renewable energy.
   * Impact: about 0 - 3 tons, depending on how much electricity you use, what type of power plants are on you grid, and what alternatives are available to you ([source](http://iopscience.iop.org/article/10.1088/1748-9326/aa7541)). See [Electricity Map](https://www.electricitymap.org) to determine the average carbon footprint of energy production in your country. If it's brown or black, you have a lot to gain from switching. If it's already green, it probably won't make a difference.
 
-You may have heard of other things like upgrading light bulbs, recycling, shutting off appliances, and hang-drying clothes. But those things generally make very little difference to your climate footprint - a few hundred kilograms at at best ([source](http://iopscience.iop.org/article/10.1088/1748-9326/aa7541))
+You may have heard of other things like upgrading light bulbs, recycling, shutting off appliances, and hang-drying clothes. This can be good for many other reasons, but from a climate footprint perspective it makes very little difference - a few hundred kilograms at at best ([source](http://iopscience.iop.org/article/10.1088/1748-9326/aa7541))
 
 ## 3. Offset the rest
 
