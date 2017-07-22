@@ -41,9 +41,9 @@ There are a lot of things you can do to reduce your direct footprint, but these 
 * **Fly less**, replace with train when feasible (replacing plane with car for the same distance makes no difference, unless it is electric). Rule of thumb: Avoid flying when you can, offset it when you can't.
   * Impact: 1 ton per 4 hours of flying ([source](http://www.carbonindependent.org/sources_aviation.html))
 * **Drive less fuel cars**. Replace with electric car, bike, train, or walking (depending on your context of course).
-  * Impact: Fuel car 300g CO2eq/km, Electric car 100-250g (depending on how clean your electricity grid is). Hybrid is somewhere between Fuel and Electric. So switching from fuel to electric will reduce your footprint by 50-200 grams per km. Keep in mind, though, that the footprint of the electric will automatically shrink over time as your electricity grid gets cleaner (which is a clear trend). 
+  * Impact: Fuel car 300g CO2eq/km, Electric car 100-250g (depending on how clean your electricity grid is). Hybrid is somewhere between Fuel and Electric. So switching from fuel to electric will reduce your footprint by 50-200 grams per km. Do the math. Keep in mind, though, that the footprint of the electric will automatically shrink over time as your electricity grid gets cleaner (which is a clear trend). 
 * **Buy green energy**. Buy solar panels and put on your roof, or switch electricity provider to one that uses primarily renewable energy.
-  * Impact: about 0 - 3 tons, depending on how much electricity you use, what type of power plants are on you grid, and what alternatives are available to you. See (Electricity Map)[https://www.electricitymap.org] to determine the average carbon footprint of energy production in your country. If it's brown or black, you have a lot to gain from switching. If it's already green, it probably won't make a difference.
+  * Impact: about 0 - 3 tons, depending on how much electricity you use, what type of power plants are on you grid, and what alternatives are available to you. See [Electricity Map](https://www.electricitymap.org) to determine the average carbon footprint of energy production in your country. If it's brown or black, you have a lot to gain from switching. If it's already green, it probably won't make a difference.
 
 Other things, like upgrading light bulbs, recycling, shutting off appliances, and hang-drying clothes, make very little difference to your climate footprint - a few hundred kilograms at at best (source)
 
@@ -53,17 +53,19 @@ You can never reduce your *direct footprint* to zero, since just being alive car
 
 Here are some websites offering you to **pay to reduce carbon emissions**. 
 * [GoClimateNeutral.org](https://en.goclimateneutral.org/) - pay a monthly fee, and they buy carbon offsets. They continuously research to find the most effect ways of offsetting. Very little work on your part, just sign up and start paying.
+* (there are LOTS more, we'll add more here soon, but feel free to google around)
 
 Here are some websites offering you to **invest to reduce carbon emissions**. The difference is that here you can expect to get a return on investment. 
 * [Trine](https://www.jointrine.com) - Crowdinvest in solar panels in Africa, help people get electricity, reduce CO2, and get your money back with interest. Note that the effectiveness (in terms of CO2 reduction per €) varies quite a lot from project to project. Do the math, the numbers are clearly visible for each project. Divide the total investment amount by the expected CO2 reduction. The best projects are at 20€/ton or lower. 
 * [BrightSunday.com](http://www.brightsunday.com) - Finance solar panels in various parts of the world. The difference from Trine is Bright Sunday is more aimed at companies, with larger recurring transactions, as opposed to the smaller one-off investments for Trine.
+* (there are LOTS more, we'll add more here soon, but feel free to google around)
 
 ## "How I did it" stories
 
 Here we'll add links to stories from people who have reduced their carbon footprint to zero (or at least made good progress along the way). 
 * [Article: Did the math on my contribution to global warming](https://blog.crisp.se/2016/12/12/henrikkniberg/did-the-math-on-my-contribution-to-global-warming)
 
-[Submit your own "How I did it" story]()
+[Submit your own "How I did it" story](https://docs.google.com/forms/d/e/1FAIpQLSdC2Ysa11hyL9PinEZcvqYRP1QXwkXkRGDz1VkIIiaGPjJSBA/viewform)
 
 
 
