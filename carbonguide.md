@@ -1,7 +1,7 @@
 # Carbon reduction guide
-Your “carbon footprint” is a measure of your personal contribution to global warming. That is, of the 50 billion tons of greenhouse gases emitted every year, how much of that is “yours”? It’s the same as saying “If I didn’t exist, how much less greenhouse gases would be emitted?”
+Your “carbon footprint” is a measure of your personal contribution to global warming. That is, of the [50 billion tons](http://www.iea.org/publications/freepublications/publication/KeyCO2EmissionsTrends.pdf) of greenhouse gases emitted every year, how much of that is “yours”? It’s the same as saying “If I didn’t exist, how much less greenhouse gases would be emitted?”
 
-## How to I eliminate my carbon footprint?
+## How do I eliminate my carbon footprint?
 
 ![Average carbon footprint per person](/images/CarbonGuide.png)
 
