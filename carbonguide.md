@@ -5,7 +5,6 @@ Your “carbon footprint” is a measure of your personal contribution to global
 
 It's really just 3 steps:
 
-
 ![Average carbon footprint per person](/images/CarbonGuide.png)
 
 1. **Estimate your current carbon footprint**. You need an actual number, so you know how much you need to eliminate. 
@@ -15,13 +14,13 @@ It's really just 3 steps:
 Your “net carbon footprint” is the sum of all your activities that increase emissions, minus the sum of all your activites that reduce emissions. If you get on a plane, you increase your net footprint. If you plant a bunch of trees, you reduce your net footprint. **The goal is to get your net emissions down to zero**.
 
 ## 1. Estimate your current footprint
-That's pretty easy. 
+There are lots of [climate footprint calculators](https://www.google.se/?q=carbon+footprint+calculator#safe=active&q=carbon+footprint+calculator) out there, but here's a simple way to get a rough estimate:
 
 Statistically, your carbon footprint is somewhere in the range [3-18 tons](http://www.ipcc.ch/pdf/assessment-report/ar5/wg3/ipcc_wg3_ar5_technical-summary.pdf) CO2eq per year.
 
 ![Average carbon footprint per person](/images/Average-carbon-footprint-per-person.png)
 
-This correlates pretty closely to income level. So if you have a relatively high income, you're probably on the right side of the spectrum, and vice versa. 
+This correlates pretty closely to income level. So if you have a relatively high income, you're probably on the upper end of the spectrum, and vice versa. 
 
 The following factors put you on the upper end of the scale (there's more, but these are the biggest factors for most people):
 * How much you fly
@@ -29,9 +28,7 @@ The following factors put you on the upper end of the scale (there's more, but t
 * How dirty your region's electricity is. See [ElectricityMap.org](https://www.electricitymap.org). Green is good, brown/black is bad.
 * How much meat you eat (especially beef)
 
-Think about it, and just pick a number. Now you have a concrete goal: get that number down to zero!
-
-If you want to get more detailed, there are plenty of more detailed [carbon footprint calculators](https://www.google.se/?q=carbon+footprint+calculator#safe=active&q=carbon+footprint+calculator). Unfortunately the quality and accuracy of those vary a lot, so the guideline above will probably give you a good enough estimate.
+Think about it, and just pick a number. Now you have a concrete goal: **get that number down to zero!**
 
 ## 2. Reduce what you can
 There are a lot of things you can do to reduce your direct footprint, but these things generally have the biggest impact:
@@ -45,23 +42,21 @@ There are a lot of things you can do to reduce your direct footprint, but these 
 * **Buy green energy**. Buy solar panels and put on your roof, or switch electricity provider to one that uses primarily renewable energy.
   * Impact: about 0 - 3 tons, depending on how much electricity you use, what type of power plants are on you grid, and what alternatives are available to you ([source](http://iopscience.iop.org/article/10.1088/1748-9326/aa7541)). See [Electricity Map](https://www.electricitymap.org) to determine the average carbon footprint of energy production in your country. If it's brown or black, you have a lot to gain from switching. If it's already green, it probably won't make a difference.
 
-Other things, like upgrading light bulbs, recycling, shutting off appliances, and hang-drying clothes, make very little difference to your climate footprint - a few hundred kilograms at at best (source)
+You may have heard of other things like upgrading light bulbs, recycling, shutting off appliances, and hang-drying clothes. But those things generally make very little difference to your climate footprint - a few hundred kilograms at at best ([source](http://iopscience.iop.org/article/10.1088/1748-9326/aa7541))
 
 ## 3. Offset the rest
 
-You can never reduce your *direct footprint* to zero, since just being alive carries a carbon footprint. But if you combine reduction with offsetting, you can reach a *net footprint* of zero.
+You can never reduce your *direct footprint* to zero, since just being alive carries a carbon footprint. But if you combine reduction with offsetting, you can reach a *net footprint* of zero. Offsetting basically means paying or investing to reduce carbon emissions somewhere else, not directly related to your existence. A ton is a ton, no matter where it is reduced. 
 
 Here are some websites offering you to **pay to reduce carbon emissions**. 
 * [GoClimateNeutral.org](https://en.goclimateneutral.org/) - pay a monthly fee, and they buy carbon offsets. They continuously research to find the most effect ways of offsetting. Very little work on your part, just sign up and start paying.
 * [CarboTax.org](http://carbotax.org/) - similar to the above
 * (there are LOTS more, we'll add more here soon, but feel free to google around)
 
-Here are some websites offering you to **invest to reduce carbon emissions**. The difference is that here you can expect to get a return on investment. 
+Here are some websites offering you to **invest to reduce carbon emissions**. The difference is that here you can expect to get a return on investment (at the cost of slightly more admin). 
 * [Trine](https://www.jointrine.com) - Crowdinvest in solar panels in Africa, help people get electricity, reduce CO2, and get your money back with interest. Note that the effectiveness (in terms of CO2 reduction per €) varies quite a lot from project to project. Do the math, the numbers are clearly visible for each project. Divide the total investment amount by the expected CO2 reduction. The best projects are at 20€/ton or lower. 
 * [BrightSunday.com](http://www.brightsunday.com) - Finance solar panels in various parts of the world. The difference from Trine is Bright Sunday is more aimed at companies, with larger recurring transactions, as opposed to the smaller one-off investments for Trine.
 * (there are LOTS more, we'll add more here soon, but feel free to google around)
-
-
 
 ## "How I did it" stories
 
