@@ -3,6 +3,9 @@ Your “carbon footprint” is a measure of your personal contribution to global
 
 ## How do I eliminate my carbon footprint?
 
+It's really just 3 steps:
+
+
 ![Average carbon footprint per person](/images/CarbonGuide.png)
 
 1. **Estimate your current carbon footprint**. You need an actual number, so you know how much you need to eliminate. 
