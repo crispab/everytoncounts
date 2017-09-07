@@ -11,7 +11,7 @@ It's really just 3 steps:
 2. **Reduce what you can**. Take concrete actions (see below) to reduce as much of your own direct footprint as possible.
 3. **Offset the rest**. Pay or invest (see below) to reduce greenhouse gas emissions elsewhere, until your net emissions are down to zero.
 
-Your “net carbon footprint” is the sum of all your activities that increase emissions, minus the sum of all your activites that reduce emissions. If you get on a plane, you increase your net footprint. If you plant a bunch of trees, you reduce your net footprint. **The goal is to get your net emissions down to zero**.
+Your “net carbon footprint” is the sum of all your activities that increase emissions, minus the sum of all your activites that reduce emissions. If you get on a plane, you increase your net footprint. If you switch from fuel car to electric car you reduce your net footprint. **The goal is to get your net emissions down to zero**.
 
 ## 1. Estimate your current footprint
 There are lots of [climate footprint calculators](https://www.google.se/?q=carbon+footprint+calculator#safe=active&q=carbon+footprint+calculator) out there, but here's a simple way to get a rough estimate:
