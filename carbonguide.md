@@ -36,7 +36,7 @@ Now you have a concrete goal: **get that number down to zero!** (or less)
 There are a lot of things you can do to reduce your direct footprint, but these things generally have the biggest impact:
 
 * **Eat less meat, especially beef** ([source](http://www.pnas.org/content/111/33/11996.abstract))
-  * Impact: 1-2 tons ([source](http://shrinkthatfootprint.com/food-carbon-footprint-diet))
+  * Impact: 1-2 tons per year ([source](http://shrinkthatfootprint.com/food-carbon-footprint-diet))
 * **Fly less**, replace with train when feasible. Replacing plane with car for the same distance makes no difference (unless you ride share, or drive an electric car). Rule of thumb: Avoid flying when you can, offset it when you can't.
   * Impact: 1 ton per 4 hours of flying ([source](http://www.carbonindependent.org/sources_aviation.html))
 * **Drive less fuel cars**. Replace with electric car, bike, train, or walking (depending on your context of course).
