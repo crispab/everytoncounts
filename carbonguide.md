@@ -28,7 +28,7 @@ The following factors put you on the upper end of the scale (there's more, but t
 * How dirty your region's electricity is. See [ElectricityMap.org](https://www.electricitymap.org). Green is good, brown/black is bad.
 * How much meat you eat (especially beef)
 
-Think about it, and just pick a number. Now you have a concrete goal: **get that number down to zero!**
+Think about it, and just pick a number that feels roughly right. Now you have a concrete goal: **get that number down to zero!** (or less)
 
 ## 2. Reduce what you can
 There are a lot of things you can do to reduce your direct footprint, but these things generally have the biggest impact:
