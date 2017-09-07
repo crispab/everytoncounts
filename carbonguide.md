@@ -35,7 +35,7 @@ There are a lot of things you can do to reduce your direct footprint, but these 
 
 * **Eat less meat, especially beef** ([source](http://www.pnas.org/content/111/33/11996.abstract))
   * Impact: 1-2 tons ([source](http://shrinkthatfootprint.com/food-carbon-footprint-diet))
-* **Fly less**, replace with train when feasible (replacing plane with car for the same distance makes no difference, unless it is electric). Rule of thumb: Avoid flying when you can, offset it when you can't.
+* **Fly less**, replace with train when feasible. Replacing plane with car for the same distance makes no difference (unless you ride share, or drive an electric car). Rule of thumb: Avoid flying when you can, offset it when you can't.
   * Impact: 1 ton per 4 hours of flying ([source](http://www.carbonindependent.org/sources_aviation.html))
 * **Drive less fuel cars**. Replace with electric car, bike, train, or walking (depending on your context of course).
   * Impact: Fuel car 300g CO2eq/km, Electric car 100-250g (depending on how clean your electricity grid is).  Hybrid is somewhere between Fuel and Electric. So switching from fuel to electric will reduce your footprint by 50-200 grams per km ([source](http://shrinkthatfootprint.com/electric-car-emissions)). Do the math. Keep in mind, though, that the footprint of the electric will automatically shrink over time as your electricity grid gets cleaner (which is a clear trend). 
