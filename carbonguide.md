@@ -66,6 +66,7 @@ Here are some websites offering you to **invest to reduce carbon emissions**. Th
 
 Here we'll add links to stories from people who have reduced their carbon footprint to zero (or at least made good progress along the way). 
 * [Article: Did the math on my contribution to global warming](https://blog.crisp.se/2016/12/12/henrikkniberg/did-the-math-on-my-contribution-to-global-warming)
+* [Blog: Going Lifetime Climate Neutral](https://goinglifetimeclimateneutral.com/)
 
 [Submit your own "How I did it" story](https://docs.google.com/forms/d/e/1FAIpQLSdC2Ysa11hyL9PinEZcvqYRP1QXwkXkRGDz1VkIIiaGPjJSBA/viewform)
 
