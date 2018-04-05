@@ -16,6 +16,7 @@
 
 # Make a difference
 
+* [Go Climate Neutral](http://www.goclimateneutral.org)
 * Sign the [Carbon Manifesto](http://carbonmanifesto.org)
 * [Reduce your carbon footprint](/carbonguide)
 
