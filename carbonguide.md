@@ -53,7 +53,7 @@ You can never reduce your *direct footprint* to zero, since just being alive car
 So how much have you reduced, and how much do you have left that needs to be offset?
 
 Here are some websites offering you to **pay to reduce carbon emissions**. 
-* [GoClimateNeutral.org](https://en.goclimateneutral.org/) - pay a monthly fee, and they buy carbon offsets. They continuously research to find the most effect ways of offsetting. Very little work on your part, just sign up and start paying.
+* [GoClimate.com](https://goclimate.com/) - pay a monthly fee, and they buy carbon offsets. They continuously research to find the most effect ways of offsetting. Very little work on your part, just sign up and start paying.
 * [CarboTax.org](http://carbotax.org/) - similar to the above
 * (there are LOTS more, we'll add more here soon, but feel free to google around)
 
