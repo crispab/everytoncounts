@@ -8,6 +8,6 @@
 
 # Make a difference
 
-* [Go Climate](http://www.goclimate.com)
+* Sign up at [GoClimate.com](http://www.goclimate.com)
 * Sign the [Carbon Manifesto](http://carbonmanifesto.org)
 * [Reduce your carbon footprint](/carbonguide)
